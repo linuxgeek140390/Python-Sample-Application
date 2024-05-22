@@ -10,3 +10,4 @@ pep8==1.5.6
 pyflakes==0.8.1
 # Coveralls
 coveralls==0.4.2
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
